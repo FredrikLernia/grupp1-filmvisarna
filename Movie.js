@@ -17,3 +17,5 @@ let movieSchema = new Schema({
   "youtubeTrailer": String,
   "reviews": Array
 });
+
+module.exports = db.model('Movie', movieSchema);
