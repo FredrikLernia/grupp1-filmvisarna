@@ -6,6 +6,7 @@ class PageContent extends Component {
 
     this.missingPage = new MissingPage();
     this.moviesPage = new MoviesPage();
+    this.confirmationPage = new ConfirmationPage();
   }
 
   
