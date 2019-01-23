@@ -39,7 +39,7 @@ module.exports = class Server {
     const models = {
       //books: require('./Book'),
       //authors: require('./Author')
-
+      movies: require('./Movie')
       // Get our models like the example above with books and authors
     };
 
