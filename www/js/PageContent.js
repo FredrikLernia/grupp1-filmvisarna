@@ -3,7 +3,7 @@ class PageContent extends Component {
   constructor(){
     super();
     this.startPage = new StartPage();
-    this.Booking = new Booking();
+    this.booking = new RepertoirePage();
     this.missingPage = new MissingPage();
   }
 
