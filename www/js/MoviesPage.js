@@ -1,5 +1,5 @@
 
-class MoviesPage extends Component (){
+class MoviesPage extends Component{
 
     constructor(){
         super();
@@ -10,7 +10,6 @@ class MoviesPage extends Component (){
 
     doSomething(){
 
-        alert('hej');
     }
 
 }

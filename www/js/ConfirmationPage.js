@@ -1,9 +1,9 @@
-class ConfirmationPage extends Component(){
+class ConfirmationPage extends Component{
 
     constructor(){
 
         super();
-        this.addRoute('/','Confirmation Page');
+        this.addRoute('/jjj','Confirmation Page');
     }
 
 
