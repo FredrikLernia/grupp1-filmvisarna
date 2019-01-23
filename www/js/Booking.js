@@ -2,7 +2,7 @@ class Booking extends Component {
 
     constructor(){
       super();
-      this.addRoute('/bokabiljett', 'Boka');
+      this.addRoute('/bokabiljet', 'Boka');
       this.bookinNum = 0;
       this.addEvents({
           'click button' : 'getBookingNum'});
