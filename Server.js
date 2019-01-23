@@ -39,8 +39,8 @@ module.exports = class Server {
     const models = {
       //books: require('./Book'),
       //authors: require('./Author')
-      movies: require('./Movie')
-        repertoires: require('./Repertoire')
+      movies: require('./Movie'),
+      repertoires: require('./Repertoire')
       // Get our models like the example above with books and authors
     };
 
