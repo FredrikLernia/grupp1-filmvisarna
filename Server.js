@@ -2,6 +2,11 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const CreateRestRoutes = require('./CreateRestRoutes');
+const LoginHandler = require('./LoginHandler');
+const settings = require('./settings.json');
+const session = require('express-session');
+const MongoStore = require('connect-mongo')(session);
+
 
 module.exports = class Server {
 
@@ -16,9 +21,11 @@ module.exports = class Server {
 
   connectToDb() {
     return new Promise((resolve, reject) => {
-      let dbName = 'cinema'
+      let dbName = settings.dbName;
       mongoose.connect(`mongodb://localhost/${dbName}`);
       global.db = mongoose.connection;
+      global.passwordSalt = settings.passwordSalt;
+      console.log(passwordSalt)
       db.on('error', () => reject('Could not connect to DB'));
       db.once('open', () => resolve('Connected to DB'));
     });
@@ -35,18 +42,31 @@ module.exports = class Server {
     // Serve static files from www
     app.use(express.static('www'));
 
+    //add session and cookie handling to Express
+    app.use(session({
+      resave: true,
+      saveUninitialized: true,
+      secret: settings.cookiesSecret,
+      store: new MongoStore({
+        mongooseConnection: db
+      })
+    }));
+
     // Set keys to names of rest routes
     const models = {
       //books: require('./Book'),
       //authors: require('./Author')
       movies: require('./Movie'),
       auditorium: require('./Auditorium'),
-      repertoires: require('./Repertoire')
+      repertoires: require('./Repertoire'),
+      users: require('./User')
       // Get our models like the example above with books and authors
     };
 
     // create all necessary rest routes for the models
     new CreateRestRoutes(app, db, models);
+
+    new LoginHandler(app, models.users);
 
     // Start the web server
     app.listen(3000, () => console.log('Listening on port 3000'));
