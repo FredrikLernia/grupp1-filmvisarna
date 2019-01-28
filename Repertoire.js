@@ -3,8 +3,8 @@ const Schema = mongoose.Schema;
 
 // Create a schema for an author
 let repertoireSchema = new Schema({
-  "auditorium": [{type: Schema.Types.ObjectId, ref: 'Auditorium'}], // populate the auditorium
-	"movie": [{type: Schema.Types.ObjectId, ref: 'Movie'}], // populate the movie
+  "auditorium": String, //[{type: Schema.Types.ObjectId, ref: 'Auditorium'}], // populate the auditorium
+	"movie": String, //[{type: Schema.Types.ObjectId, ref: 'Movie'}], // populate the movie
 	"date": String,
 	"time": String,
 	"guests": Number, // (value that will increase for every new booking)
