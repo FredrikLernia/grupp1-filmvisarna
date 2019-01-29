@@ -1,0 +1,791 @@
+[
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-04",
+    "time": "18.40"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-04",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Green Book",
+    "date": "2019-02-04",
+    "time": "21.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-04",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-04",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Call me by your name",
+    "date": "2019-02-05",
+    "time": "18.00"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-05",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-05",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-05",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-06",
+    "time": "18.15"
+  }, {
+    "auditorium": "Stora Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-06",
+    "time": "21.00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-06",
+    "time": "19.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-06",
+    "time": "18.45"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-07",
+    "time": "17.45"
+  }, {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-07",
+    "time": "20.45"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-07",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-07",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-07",
+    "time": "18.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Girl",
+    "date": "2019-02-07",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Green Book",
+    "date": "2019-02-08",
+    "time": "18.15"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-08",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-08",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-08",
+    "time": "17:45"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Cold War",
+    "date": "2019-02-08",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-09",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-09",
+    "time": "19.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-09",
+    "time": "18:15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Green Book",
+    "date": "2019-02-09",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film":  "Gräns",
+    "date": "2019-02-10",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-10",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Cold War",
+    "date": "2019-02-10",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-10",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-10",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-11",
+    "time": "18.40"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-11",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Green Book",
+    "date": "2019-02-11",
+    "time": "21.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-11",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-11",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Call me by your name",
+    "date": "2019-02-12",
+    "time": "18.00"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-12",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-12",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-12",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-13",
+    "time": "18.15"
+  }, {
+    "auditorium": "Stora Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-13",
+    "time": "21.00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-13",
+    "time": "19.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-13",
+    "time": "18.45"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-14",
+    "time": "17.45"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-14",
+    "time": "20.45"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-14",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-14",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-14",
+    "time": "18.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Girl",
+    "date": "2019-02-14",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Green Book",
+    "date": "2019-02-15",
+    "time": "18.15"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-15",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-15",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-15",
+    "time": "17:45"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Cold War",
+    "date": "2019-02-15",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-16",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-16",
+    "time": "19.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-16",
+    "time": "18:15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Green Book",
+    "date": "2019-02-16",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film":  "Gräns",
+    "date": "2019-02-17",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-17",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Cold War",
+    "date": "2019-02-17",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-17",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-17",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-18",
+    "time": "18.40"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-18",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Green Book",
+    "date": "2019-02-18",
+    "time": "21.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-18",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-18",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Call me by your name",
+    "date": "2019-02-19",
+    "time": "18.00"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-19",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-19",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-19",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-20",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-20",
+    "time": "21.00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-20",
+    "time": "19.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-20",
+    "time": "18.45"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-21",
+    "time": "17.45"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-21",
+    "time": "20.45"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-21",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-21",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-21",
+    "time": "18.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Girl",
+    "date": "2019-02-21",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Green Book",
+    "date": "2019-02-22",
+    "time": "18.15"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-22",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-22",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-22",
+    "time": "17:45"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Cold War",
+    "date": "2019-02-22",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-23",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-23",
+    "time": "19.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-23",
+    "time": "18:15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Green Book",
+    "date": "2019-02-23",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film":  "Gräns",
+    "date": "2019-02-24",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-24",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Cold War",
+    "date": "2019-02-24",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-24",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-24",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-25",
+    "time": "18.40"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-25",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Green Book",
+    "date": "2019-02-25",
+    "time": "21.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-25",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-25",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Call me by your name",
+    "date": "2019-02-26",
+    "time": "18.00"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-02-26",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-02-26",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-26",
+    "time": "18.00"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-27",
+    "time": "18.15"
+  }, {
+    "auditorium": "Stora Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-27",
+    "time": "21.00"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-02-27",
+    "time": "19.00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-02-27",
+    "time": "18.45"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Cold War",
+    "date": "2019-02-28",
+    "time": "17.45"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Gräns",
+    "date": "2019-02-28",
+    "time": "20.45"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-02-28",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Stora stygga räven",
+    "date": "2019-02-28",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-02-28",
+    "time": "18.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Girl",
+    "date": "2019-02-28",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Green Book",
+    "date": "2019-03-01",
+    "time": "18.15"
+  }, 
+  {
+    "auditorium": "Stora Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-03-01",
+    "time": "21.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-03-01",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "The Wife",
+    "date": "2019-03-01",
+    "time": "17:45"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Cold War",
+    "date": "2019-03-01",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Girl",
+    "date": "2019-03-02",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-03-02",
+    "time": "19.15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Sagoland",
+    "date": "2019-03-02",
+    "time": "18:15"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Green Book",
+    "date": "2019-03-02",
+    "time": "20.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film":  "Gräns",
+    "date": "2019-03-03",
+    "time": "18.15"
+  },
+  {
+    "auditorium": "Stora Salongen",
+    "film": "Beskyddarna",
+    "date": "2019-03-03",
+    "time": "20.30"
+  },
+  {
+    "auditorium": "Lilla Salongen",
+    "film": "Cold War",
+    "date": "2019-03-03",
+    "time": "19.30"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "Beautiful Boy",
+    "date": "2019-03-03",
+    "time": "18:00"
+  },
+  {
+    "auditorium": "Premium Salongen",
+    "film": "BlacKkKlansman",
+    "date": "2019-03-03",
+    "time": "20.15"
+  }
+  
+]
