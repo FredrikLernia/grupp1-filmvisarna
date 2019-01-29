@@ -1,6 +1,7 @@
 const bcrypt = require('bcrypt');
 
 module.exports = class LoginHandler {
+  
   constructor(app, User) {
     this.app = app;
     this.User = User;
@@ -24,9 +25,10 @@ module.exports = class LoginHandler {
         res.json({ error: 'The password does not match' });
         return;
       }
-      res.json({ loggedIn: true });
+      
       req.session.user = user;
       req.session.save();
+      res.json({ loggedIn: true });
 
     });
   }
@@ -37,7 +39,7 @@ module.exports = class LoginHandler {
         res.json({ error: 'Not logged in' });
         return;
       }
-      res.json({ email: req.session.user.email })
+      res.json({ email: req.session.user.email });
     });
   }
 
@@ -45,7 +47,7 @@ module.exports = class LoginHandler {
     this.app.delete('/json/login/*', (req, res) => {
       delete req.session.user;
       req.session.save();
-      res.json({loggedOut: true})
+      res.json({loggedOut: true});
     });
   }
 }

@@ -23,9 +23,8 @@ module.exports = class Server {
     return new Promise((resolve, reject) => {
       let dbName = settings.dbName;
       mongoose.connect(`mongodb://localhost/${dbName}`);
-      global.db = mongoose.connection;
       global.passwordSalt = settings.passwordSalt;
-      console.log(passwordSalt)
+      global.db = mongoose.connection;     
       db.on('error', () => reject('Could not connect to DB'));
       db.once('open', () => resolve('Connected to DB'));
     });
@@ -44,9 +43,9 @@ module.exports = class Server {
 
     //add session and cookie handling to Express
     app.use(session({
-      resave: true,
-      saveUninitialized: true,
       secret: settings.cookiesSecret,
+      resave: true,
+      saveUninitialized: true,      
       store: new MongoStore({
         mongooseConnection: db
       })
